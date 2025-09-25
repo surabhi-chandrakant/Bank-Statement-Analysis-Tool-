@@ -3,7 +3,7 @@
 A powerful Python tool to automatically extract, analyze, and visualize bank statement data from PDF files. Perfect for financial analysis and transaction monitoring.
 
 **Live Demo:** [Coming Soon]  
-**Repository:** [Bank-Statement-Analysis-Tool](https://github.com/surabhi-chandrakant/Bank-Statement-Analysis-Tool-)
+**Repository:** [Bank-Statement-Analysis-Tool](https://bank-statementanalyzer.streamlit.app/)
 
 ---
 
