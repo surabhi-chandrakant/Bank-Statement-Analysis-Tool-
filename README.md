@@ -85,12 +85,6 @@ Visit 👉 [http://localhost:8501](http://localhost:8501) and upload your bank s
 
 ## 🖼️ Screenshots
 
-### 📥 Uploading a Bank Statement
-![Upload Screenshot](static/screenshots/upload.png)
-
-### 📊 Extracted Transactions
-![Transactions Screenshot](static/screenshots/transactions.png)
-
 ### 📈 Visualizations & Analysis
 ![Charts Screenshot](static/screenshots/charts.png)
 
